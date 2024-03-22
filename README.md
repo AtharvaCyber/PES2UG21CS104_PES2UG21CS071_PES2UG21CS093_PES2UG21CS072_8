@@ -4,7 +4,11 @@ A repository containing the source code for the CC project.
 
 Team Members
 
-\tAtharva Menkudle
-\tAnirudh Bhatta J.A
-\tAnirudh Krishna
-\tArun Karthik
+Atharva Menkudle  
+
+Anirudh Bhatta J.A  
+
+Anirudh Krishna  
+
+Arun Karthik  
+
